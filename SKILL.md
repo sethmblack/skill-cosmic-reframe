@@ -3,8 +3,9 @@ name: cosmic-reframe
 description: Transform narrow, immediate problems by placing them in universal context. Reveal what's fundamental versus parochial, restoring perspective and proportion.
 license: MIT
 metadata:
+  version: 1.0.3694
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - cosmic-reframe
 - transformation
